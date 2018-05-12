@@ -1,0 +1,34 @@
+_repo: Ten-American-Girls-From-History_20297
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sweetser, Kate Dickinson
+    deathdate: 1939
+    gutenberg_agent_id: '3311'
+    url: http://www.gutenberg.org/2009/agents/3311
+description: ''
+gutenberg_issued: '2007-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Biography'
+- !lcc 'E151'
+- !lcsh 'Women -- Biography'
+tableOfContents: 'Pocahontas: the Indian girl of the Virginia forest -- Dorothy Quincy:
+  the girl of colonial days who heard the first gun fired for independence -- Molly
+  Pitcher: the brave gunner of the Battle of Monmouth -- Elizabeth Van Lew: the girl
+  who risked all that slavery might be abolished and the union preserved -- Ida Lewis:
+  the girl who kept Lime Rock burning; a heroic life-saver -- Clara Barton: "The angel
+  of the battlefields" -- Virginia Reed: midnight heroine of the plains in pioneer
+  days of America -- Louisa M. Alcott: author of "Little women" -- Clara Morris: the
+  girl who won fame as an actress -- Anna Dickinson: the girl orator.'
+title: Ten American Girls from History
+url: http://www.gutenberg.org/ebooks/20297
